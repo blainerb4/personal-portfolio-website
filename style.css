@@ -509,7 +509,7 @@ section .title::after{
     border-color: #b3b3b3;
 }
 .contact .right form .textarea textarea{
-    padding-top: 10px;
+    padding-top: 30px;
     resize: none;
 }
 .contact .right form .button{
